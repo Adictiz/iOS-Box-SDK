@@ -1,7 +1,8 @@
 # Box iOS SDK
 
 Last stable version is [1.0.1][archive]
-Sample project : [dowload][sampleProject]
+
+Last stable "Sample Project" is [1.0.0][sampleProject]
 
 ---
 ## Requirements
