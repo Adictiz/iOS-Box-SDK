@@ -2,6 +2,8 @@
 
 Last stable version is [1.0.2][archive]
 
+Last stable "Sample Project" is [1.0.0][sampleProject]
+
 ---
 ## Requirements
 
@@ -28,7 +30,10 @@ Integration instruction are available on the [wiki][wiki].
 Please refer to the [changelog][changelog] for detailed informations.
 
 
-[archive]: https://github.com/Adictiz/box-ios-sdk/blob/master/Box-IOS-SDK-1.0.2.zip "Box iOS SDK archive"
-[wiki]: https://github.com/Adictiz/box-ios-sdk/wiki "Box iOS SDK Wiki home page"
-[reference]: https://github.com/Adictiz/box-ios-sdk/raw/master/Box-IOS-SDK-1.0.2-reference.zip "Box iOS SDK Classes Reference archive"
-[changelog]: https://github.com/Adictiz/box-ios-sdk/blob/master/CHANGELOG.md "Box iOS SDK changelog"
+
+[archive]: https://github.com/Adictiz/iOS-Box-SDK/blob/master/Box-IOS-SDK-1.0.2.zip?raw=true "Box iOS SDK archive"
+[wiki]: https://github.com/Adictiz/iOS-Box-SDK/wiki "Box iOS SDK Wiki home page"
+[reference]: https://github.com/Adictiz/iOS-Box-SDK/raw/master/Box-IOS-SDK-1.0.2-reference.zip?raw=true "Box iOS SDK Classes Reference archive"
+[sampleProject]: https://github.com/Adictiz/iOS-Box-SDK/blob/master/Box-SampleProject-1.0.1.zip?raw=true "Box iOS SDK sample project"
+[changelog]: https://github.com/Adictiz/iOS-Box-SDK/blob/master/CHANGELOG.md "Box iOS SDK changelog"
+
