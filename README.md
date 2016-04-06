@@ -1,6 +1,6 @@
 # Box iOS SDK
 
-Last stable version is [1.0.1][archive]
+Last stable version is [1.0.2][archive]
 
 ---
 ## Requirements
@@ -28,7 +28,7 @@ Integration instruction are available on the [wiki][wiki].
 Please refer to the [changelog][changelog] for detailed informations.
 
 
-[archive]: https://github.com/Adictiz/box-ios-sdk/blob/master/Box-IOS-SDK-1.0.1.zip "Box iOS SDK archive"
+[archive]: https://github.com/Adictiz/box-ios-sdk/blob/master/Box-IOS-SDK-1.0.2.zip "Box iOS SDK archive"
 [wiki]: https://github.com/Adictiz/box-ios-sdk/wiki "Box iOS SDK Wiki home page"
-[reference]: https://github.com/Adictiz/box-ios-sdk/raw/master/Box-IOS-SDK-1.0.1-reference.zip "Box iOS SDK Classes Reference archive"
+[reference]: https://github.com/Adictiz/box-ios-sdk/raw/master/Box-IOS-SDK-1.0.2-reference.zip "Box iOS SDK Classes Reference archive"
 [changelog]: https://github.com/Adictiz/box-ios-sdk/blob/master/CHANGELOG.md "Box iOS SDK changelog"

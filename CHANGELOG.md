@@ -1,3 +1,7 @@
+##### 1.0.2 2016/04/06
+
+-- Set up the UIViewController when it calls the webview
+
 ##### 1.0.1 2015/11/10
 
 -- Fix issue : upload Picture
